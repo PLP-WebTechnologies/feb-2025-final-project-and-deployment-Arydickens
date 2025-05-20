@@ -1,6 +1,6 @@
 # Aryatunga Dickens Portfolio - Project Documentation
 
-dickensug.netlify.app
+https://dickensug.netlify.app
 
 ## Overview
 
