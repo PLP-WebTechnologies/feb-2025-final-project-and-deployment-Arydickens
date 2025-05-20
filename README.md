@@ -1,6 +1,8 @@
 
 [click to view the site: (https://dickensug.netlify.app)
 
+see Documentatiom.md for Project documentation
+
 # Final Project and Deployment
 
 ## Objectives
