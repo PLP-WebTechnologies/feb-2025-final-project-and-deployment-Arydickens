@@ -1,5 +1,5 @@
 
-dickens.netlify.app
+[click to view the site: (https://dickensug.netlify.app)
 
 # Final Project and Deployment
 
